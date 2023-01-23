@@ -1,0 +1,17 @@
+ChatRequest 1015 Tim wait
+ChatRequest 1030 Janice later
+ChatRequest 1033 Walter wait
+PrintAvailableRepList 1034
+ChatRequest 1036 Gabriella wait
+ChatRequest 1037 Daniel later
+ChatRequest 1042 Calvin later
+ChatRequest 1043 Sam wait
+ChatRequest 1044 Alan wait
+QuitOnHold 1045 Sam
+ChatEnded Tim Alice 1047
+PrintMaxWaitTime 1048
+ChatEnded Janice Bob 1050
+ChatEnded Walter Carol 1051
+ChatEnded Gabriella David 1053
+ChatEnded Daniel Emily 1057
+ChatEnded Alan Alice 1114

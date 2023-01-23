@@ -1,0 +1,25 @@
+Alphabet
+Alphabet Calico
+Alphabet DeepMind
+Alphabet Google
+Alphabet Isomorphic_Labs
+Alphabet Wing
+Alphabet X_Development
+DeepMind AlphaGo
+DeepMind AlphaStar
+DeepMind WaveNet
+Google Android_Inc
+Google Firebase
+Google Fitbit
+Google Google_AI
+Google Kaggle
+Google Niantic
+Google YouTube
+X_Development Dandelion
+X_Development Glass
+X_Development Loon
+X_Development Taara
+X_Development Waymo
+YouTube FameBit
+YouTube Green_Parrot_Pictures
+YouTube Episodic_Inc

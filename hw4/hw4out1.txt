@@ -1,0 +1,9 @@
+AddCustomer David 3 4 3 4 3 4 3 4 3 4
+AddCustomer Emily 1 1 1 5 5 4 4 1 4 5
+PrintCustomerDistanceRatings
+      Alice      1 2 3 4 5 0 0 0 0 0
+2.200 Bob        5 5 5 5 5 5 5 5 5 5
+0.200 Carol      1 2 3 4 5 5 4 3 0 0
+1.400 David      3 4 3 4 3 4 3 4 3 4
+1.000 Emily      1 1 1 5 5 4 4 1 4 5
+RecommendSongs Carol Song5 5 Song6 4

@@ -1,0 +1,17 @@
+PrintSkipList
+AddEvent 0101 New_Year
+AddEvent 0107 Birthday
+AddEvent 0118 Semester_Start
+AddEvent 0124 Dentist_Visit
+DisplayAllEvents
+DisplayEvent 0124
+DeleteEvent 0124
+DisplayEventsFromStartDate 0101
+AddEvent 0214 Valentine_Day
+AddEvent 0220 Beach_Day
+DisplayEventsBetweenDates 0105 0218
+AddEvent 0309 Spring_Break
+AddEvent 0313 Hackathon
+DisplayEventsToEndDate 0401
+DeleteEvent 0330
+PrintSkipList

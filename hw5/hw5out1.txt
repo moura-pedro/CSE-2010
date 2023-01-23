@@ -1,0 +1,23 @@
+PrintSkipList
+(S0) empty
+AddEvent 0101 New_Year success
+AddEvent 0107 Birthday success
+AddEvent 0118 Semester_Start success
+AddEvent 0124 Dentist_Visit success
+DisplayAllEvents 0101:New_Year 0107:Birthday 0118:Semester_Start 0124:Dentist_Visit
+DisplayEvent 0124 Dentist_Visit
+DeleteEvent 0124 success
+DisplayEventsFromStartDate 0101 0101:New_Year 0107:Birthday 0118:Semester_Start
+AddEvent 0214 Valentine_Day success
+AddEvent 0220 Beach_Day success
+DisplayEventsBetweenDates 0105 0218 0107:Birthday 0118:Semester_Start 0214:Valentine_Day
+AddEvent 0309 Spring_Break success
+AddEvent 0313 Hackathon success
+DisplayEventsToEndDate 0401 0101:New_Year 0107:Birthday 0118:Semester_Start 0214:Valentine_Day 0220:Beach_Day 0309:Spring_Break 0313:Hackathon
+DeleteEvent 0330 noDateError
+PrintSkipList
+(S4) empty
+(S3) 0313:Hackathon
+(S2) 0313:Hackathon
+(S1) 0107:Birthday 0220:Beach_Day 0313:Hackathon
+(S0) 0101:New_Year 0107:Birthday 0118:Semester_Start 0214:Valentine_Day 0220:Beach_Day 0309:Spring_Break 0313:Hackathon

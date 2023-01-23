@@ -1,0 +1,26 @@
+ChatRequest 1015 Tim wait
+RepAssignment Tim Alice 1015
+ChatRequest 1030 Janice later
+RepAssignment Janice Bob 1030
+ChatRequest 1033 Walter wait
+RepAssignment Walter Carol 1033
+AvailableRepList 1034 David Emily
+ChatRequest 1036 Gabriella wait
+RepAssignment Gabriella David 1036
+ChatRequest 1037 Daniel later
+RepAssignment Daniel Emily 1037
+ChatRequest 1042 Calvin later
+TryLater Calvin 1042
+ChatRequest 1043 Sam wait
+PutOnHold Sam 1043
+ChatRequest 1044 Alan wait
+PutOnHold Alan 1044
+QuitOnHold 1045 Sam
+ChatEnded Tim Alice 1047
+RepAssignment Alan Alice 1047
+MaxWaitTime 1048 3
+ChatEnded Janice Bob 1050
+ChatEnded Walter Carol 1051
+ChatEnded Gabriella David 1053
+ChatEnded Daniel Emily 1057
+ChatEnded Alan Alice 1114

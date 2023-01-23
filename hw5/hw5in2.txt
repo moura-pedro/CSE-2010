@@ -1,0 +1,17 @@
+AddEvent 0317 St_Patricks_Day
+AddEvent 0401 April_Fools
+AddEvent 0504 Star_Wars_Day
+AddEvent 0704 Fourth_of_July
+AddEvent 1031 Halloween
+AddEvent 1101 All_Saints_Day
+AddEvent 1111 Veterans_Day	
+AddEvent 1225 Christmas_Day
+AddEvent 0106 National_Bird_Day
+AddEvent 0106 Three_Kings_Day
+PrintSkipList
+DeleteEvent 0105
+AddEvent 0105 National_Bird_Day
+PrintSkipList
+DisplayEventsBetweenDates 0601 0630
+DisplayEventsFromStartDate 1101
+DisplayEventsToEndDate 0501

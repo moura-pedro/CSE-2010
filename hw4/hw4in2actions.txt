@@ -1,0 +1,5 @@
+PrintCustomerDistanceRatings
+RecommendSongs
+AddCustomer Idris 1 3 5 2 3 4 4 1 5 3
+PrintCustomerDistanceRatings
+RecommendSongs

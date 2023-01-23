@@ -1,0 +1,31 @@
+ChatRequest 1317 Xu wait
+ChatRequest 1400 Patel wait
+ChatRequest 1401 Fatuma later
+ChatRequest 1420 Connor wait
+PrintAvailableRepList 1430
+ChatRequest 1435 Abe later
+ChatRequest 1505 Francis wait
+ChatRequest 1506 Solange wait
+ChatRequest 1510 John wait
+ChatEnded Fatuma Carol 1510
+ChatRequest 1513 Akeem wait
+ChatRequest 1520 Rosalina wait
+ChatRequest 1522 Issa later
+ChatRequest 1525 Andrew wait
+QuitOnHold 1530 John
+ChatEnded Xu Alice 1531
+ChatEnded Abe Emily 1533
+ChatEnded Francis Carol 1537
+ChatRequest 1540 George later
+ChatRequest 1544 Omar wait
+PrintMaxWaitTime 1550
+ChatEnded Patel Bob 1600
+ChatEnded Connor David 1606
+PrintAvailableRepList 1607
+ChatEnded Solange Alice 1616
+ChatEnded Andrew Bob 1619
+ChatEnded Rosalina Carol 1620
+ChatEnded Omar David 1623
+ChatRequest 1625 John later
+ChatEnded Akeem Emily 1630
+ChatEnded John Alice 1700

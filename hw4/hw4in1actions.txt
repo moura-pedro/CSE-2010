@@ -1,0 +1,4 @@
+AddCustomer David 3 4 3 4 3 4 3 4 3 4
+AddCustomer Emily 1 1 1 5 5 4 4 1 4 5
+PrintCustomerDistanceRatings
+RecommendSongs

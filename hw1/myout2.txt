@@ -1,0 +1,52 @@
+ChatRequest 1317 Xu wait
+RepAssignment Xu Alice 1317
+ChatRequest 1400 Patel wait
+RepAssignment Patel Bob 1400
+ChatRequest 1401 Fatuma later
+RepAssignment Fatuma Carol 1401
+ChatRequest 1420 Connor wait
+RepAssignment Connor David 1420
+AvailableRepList 1430 Emily
+ChatRequest 1435 Abe later
+RepAssignment Abe Emily 1435
+ChatRequest 1505 Francis wait
+PutOnHold Francis 1505
+ChatRequest 1506 Solange wait
+PutOnHold Solange 1506
+ChatRequest 1510 John wait
+PutOnHold John 1510
+ChatEnded Fatuma Carol 1510
+RepAssignment Francis Carol 1510
+ChatRequest 1513 Akeem wait
+PutOnHold Akeem 1513
+ChatRequest 1520 Rosalina wait
+PutOnHold Rosalina 1520
+ChatRequest 1522 Issa later
+TryLater Issa 1522
+ChatRequest 1525 Andrew wait
+PutOnHold Andrew 1525
+QuitOnHold 1530 John
+ChatEnded Xu Alice 1531
+RepAssignment Solange Alice 1531
+ChatEnded Abe Emily 1533
+RepAssignment Akeem Emily 1533
+ChatEnded Francis Carol 1537
+RepAssignment Rosalina Carol 1537
+ChatRequest 1540 George later
+TryLater George 1540
+ChatRequest 1544 Omar wait
+PutOnHold Omar 1544
+MaxWaitTime 1550 25
+ChatEnded Patel Bob 1600
+RepAssignment Andrew Bob 1600
+ChatEnded Connor David 1606
+RepAssignment Omar David 1606
+AvailableRepList 1607
+ChatEnded Solange Alice 1616
+ChatEnded Andrew Bob 1619
+ChatEnded Rosalina Carol 1620
+ChatEnded Omar David 1623
+ChatRequest 1625 John later
+RepAssignment John Alice 1625
+ChatEnded Akeem Emily 1630
+ChatEnded John Alice 1700

@@ -1,0 +1,27 @@
+AddEvent 0317 St_Patricks_Day success
+AddEvent 0401 April_Fools success
+AddEvent 0504 Star_Wars_Day success
+AddEvent 0704 Fourth_of_July success
+AddEvent 1031 Halloween success
+AddEvent 1101 All_Saints_Day success
+AddEvent 1111 Veterans_Day success
+AddEvent 1225 Christmas_Day success
+AddEvent 0106 National_Bird_Day success
+AddEvent 0106 Three_Kings_Day success
+PrintSkipList
+(S4) empty
+(S3) 1225:Christmas_Day
+(S2) 0704:Fourth_of_July 1225:Christmas_Day
+(S1) 0401:April_Fools 0704:Fourth_of_July 1101:All_Saints_Day 1225:Christmas_Day
+(S0) 0106:Three_Kings_Day 0317:St_Patricks_Day 0401:April_Fools 0504:Star_Wars_Day 0704:Fourth_of_July 1031:Halloween 1101:All_Saints_Day 1111:Veterans_Day 1225:Christmas_Day
+DeleteEvent 0105 noDateError
+AddEvent 0105 National_Bird_Day success
+PrintSkipList
+(S4) empty
+(S3) 1225:Christmas_Day
+(S2) 0704:Fourth_of_July 1225:Christmas_Day
+(S1) 0105:National_Bird_Day 0401:April_Fools 0704:Fourth_of_July 1101:All_Saints_Day 1225:Christmas_Day
+(S0) 0105:National_Bird_Day 0106:Three_Kings_Day 0317:St_Patricks_Day 0401:April_Fools 0504:Star_Wars_Day 0704:Fourth_of_July 1031:Halloween 1101:All_Saints_Day 1111:Veterans_Day 1225:Christmas_Day
+DisplayEventsBetweenDates 0601 0630 none
+DisplayEventsFromStartDate 1101 1101:All_Saints_Day 1111:Veterans_Day 1225:Christmas_Day
+DisplayEventsToEndDate 0501 0105:National_Bird_Day 0106:Three_Kings_Day 0317:St_Patricks_Day 0401:April_Fools

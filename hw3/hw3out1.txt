@@ -1,0 +1,9 @@
+DirectSubordinates Alphabet Calico DeepMind Google Isomorphic_Labs Wing X_Development
+DirectSupervisor Waymo X_Development
+AllSupervisors AlphaGo DeepMind Alphabet
+AllSubordinates Google Android_Inc Firebase Fitbit Google_AI Kaggle Niantic YouTube FameBit Green_Parrot_Pictures Episodic_Inc
+NumberOfAllSubordinates Google 10
+IsSupervisor Alphabet Google no
+IsSubordinate Alphabet Google yes
+CompareRank AlphaStar Niantic same
+ClosestCommonSupervisor Green_Parrot_Pictures WaveNet Alphabet

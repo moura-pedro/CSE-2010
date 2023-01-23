@@ -1,0 +1,9 @@
+DirectSubordinates Alphabet
+DirectSupervisor Waymo
+AllSupervisors AlphaGo
+AllSubordinates Google
+NumberOfAllSubordinates Google
+IsSupervisor Alphabet Google
+IsSubordinate Alphabet Google
+CompareRank AlphaStar Niantic
+ClosestCommonSupervisor Green_Parrot_Pictures WaveNet
